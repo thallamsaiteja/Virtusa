@@ -1,0 +1,11 @@
+14-10-22(virtusa)
+WAP to read a number and convert to string,if no.of digits is odd then print reverse of a number,else reverse first half and second half.(4-cases)
+ 
+ip1: 1234567
+op1: 7654321
+
+ip2: 135792
+op2: 531297
+
+ip3: 135792 
+op3: 531297
